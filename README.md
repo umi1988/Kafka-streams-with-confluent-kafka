@@ -1,2 +1,2 @@
-# Kafka-stream-with-confluent-kafka
-Kafka-stream with confluent kafka
+# Kafka-streams-with-confluent-kafka
+Kafka-streams with confluent kafka
